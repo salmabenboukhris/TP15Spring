@@ -12,6 +12,12 @@
 
 <img width="752" height="143" alt="verification existance d&#39; image " src="https://github.com/user-attachments/assets/e8cbbf66-e11e-4438-b264-3608b84c97bf" />
 
+## Interface docker 
+<img width="1395" height="1010" alt="interface docker  (2)" src="https://github.com/user-attachments/assets/fcd82a76-664d-486a-ae34-1d9308758d29" />
+
+<img width="1377" height="1018" alt="interface docker  (1)" src="https://github.com/user-attachments/assets/c858afae-e18e-4cfc-8b73-9620c528ca98" />
+
+
 # Vérifier les logs :
 ##### docker logs -f spring-app
 
